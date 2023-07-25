@@ -47,7 +47,7 @@ $(\square)_{t} = (\square) \cdot \Delta t $
 |Condense tower water return temperature  |$T^{\text{chws}}_{t} $|$41$|$^\circ C$|
 |Energy demands by miscellaneous  |$E^{\text{misc}} $|$0$|$\text{kWh}$|
 |IT equipment and servers  |$W^{\text{server}} $|$2.5$|$\text{kW/m}^{2}$|
-|Cross-sectional area of the air outlet of the air conditione  |$S^{\text{AC}} $|$2.5$|$\text{kW/m}^{2}$|
+|Cross-sectional area of the air outlet of the air conditione  |$S^{\text{AC}} $|$4$|$\text{m}^{2}$|
 
 
 
