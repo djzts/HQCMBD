@@ -1,4 +1,7 @@
 # Data center model
+
+> **Project page:** <https://djzts.github.io/HQCMBD/> introduces **HQC-Bend**, the hybrid quantum-classical multi-cuts Benders' decomposition package this model is built for (package source: [djzts/HQCMCBD-API](https://github.com/djzts/HQCMCBD-API)). The page lives in [`docs/`](docs/).
+
 Those names with * means:
 
 $(\square)_{t} = (\square) \cdot \Delta t $
